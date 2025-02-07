@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohit Reezal</h1>
-<h3 align="center">A passionate learner</h3>
+# Hi, I'm Mohit Reezal! 👋
 
-- 📫 How to reach me **reezalmohit@gmail.com**
+## 🚀 About Me
+I'm a passionate backend developer diving into the world of frontend development with React.js. My current tech stack includes:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohit-reezal-b333b530b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit reezal" height="30" width="40" /></a>
-</p>
+### 🔧 Technologies & Skills
+- **Frontend**: Learning React.js ⚛️
+- **Backend**: Node.js, Express.js, MongoDB 🛠️
+- **Databases**: MongoDB, Mongoose
+- **Version Control**: Git, GitHub
+
+## 🌱 What I'm Currently Learning
+I'm expanding my skill set by mastering React.js to become a full-stack developer.
+
+## 📫 Connect with Me
+- GitHub: [MohitReezal](https://github.com/MohitReezal)
+- LinkedIn: [[Your LinkedIn Profile](#)](https://www.linkedin.com/in/mohit-reezal-b333b530b/)
+- Email: [Your Email](#)reezalmohit@gmail.com
+
+
+
